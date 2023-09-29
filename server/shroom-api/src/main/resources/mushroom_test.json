@@ -1,0 +1,40 @@
+{
+  "mushroom_species": [
+    {
+      "id": 1,
+      "name": "Fly Agaric",
+      "scientific_name": "Amanita muscaria",
+      "isToxic": true,
+      "isDeadly": false,
+      "image_URL": "https://images.unsplash.com/photo-1665345048842-2f319ba057f2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Zmx5JTIwYWdhcmljfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "description": "The Fly Agaric is a well-known mushroom with a bright red cap and white spots. It is mildly toxic and can cause hallucinations if consumed."
+    },
+    {
+      "id": 2,
+      "name": "Death Cap",
+      "scientific_name": "Amanita phalloides",
+      "isToxic": true,
+      "isDeadly": true,
+      "image_URL": "https://media.istockphoto.com/id/1329924570/photo/mushrooms-in-the-woods.jpg?s=612x612&w=0&k=20&c=Z0PfBNlxQJmhjyXZd5bNJtbW0Y4__e1IFCB0vG0gCT8=",
+      "description": "The Death Cap is one of the deadliest mushrooms. It has a greenish-yellow cap and can be fatal if ingested."
+    },
+    {
+      "id": 3,
+      "name": "Chanterelle",
+      "scientific_name": "Cantharellus cibarius",
+      "isToxic": false,
+      "isDeadly": false,
+      "image_URL": "https://media.istockphoto.com/id/133823186/photo/two-yellow-chantarelles.jpg?s=612x612&w=0&k=20&c=APDUdDiXKhD9g5l-6IVLYcZLSVuCcyZ9wUB2KxnLihs=",
+      "description": "The Chanterelle is a delicious edible mushroom with a golden-yellow cap and a mild, fruity aroma. It is not toxic."
+    },
+    {
+      "id": 4,
+      "name": "Lion's Mane",
+      "scientific_name": "Hericium erinaceus",
+      "isToxic": false,
+      "isDeadly": false,
+      "image_URL": "https://media.istockphoto.com/id/1260089283/photo/lions-mane-mushroom.jpg?s=612x612&w=0&k=20&c=S_n-elyg5Ixg2PWvymZqoK5iOnUPA6K0inTgEvBzX6o=",
+      "description": "The Lion's Mane mushroom has long, white, shaggy spines and is prized for its culinary and potential medicinal benefits. It is not toxic."
+    }
+  ]
+}
